@@ -1,0 +1,23 @@
+c:\users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\bin\Debug\Tienda Tres Monosabios.exe.config
+c:\users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\bin\Debug\Tienda Tres Monosabios.exe
+c:\users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\bin\Debug\Tienda Tres Monosabios.pdb
+c:\users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda Tres Monosabios.csprojResolveAssemblyReference.cache
+c:\users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda_Tres_Monosabios.Form1.resources
+c:\users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda_Tres_Monosabios.Properties.Resources.resources
+c:\users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda Tres Monosabios.csproj.GenerateResource.Cache
+c:\users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda Tres Monosabios.exe
+c:\users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda Tres Monosabios.pdb
+C:\Users\mafer\OneDrive\Documentos\Visual Studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\bin\Debug\MySql.Data.dll
+C:\Users\mafer\OneDrive\Documentos\Visual Studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda_Tres_Monosabios.Pantallaprincipal.resources
+C:\Users\mafer\OneDrive\Documentos\Visual Studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\bin\Debug\aa-ER\Tienda Tres Monosabios.resources.dll
+C:\Users\mafer\OneDrive\Documentos\Visual Studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda_Tres_Monosabios.Pantallaprincipal.aa-ER.resources
+C:\Users\mafer\OneDrive\Documentos\Visual Studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\aa-ER\Tienda Tres Monosabios.resources.dll
+C:\Users\mafer\OneDrive\Documentos\Visual Studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda_Tres_Monosabios.Ciudades.resources
+C:\Users\mafer\OneDrive\Documentos\Visual Studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mafer\OneDrive\Documentos\Visual Studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda_Tres_Monosabios.Productos.resources
+C:\Users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda_Tres_Monosabios.CrearProducto.resources
+C:\Users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda_Tres_Monosabios.EditarProducto.resources
+C:\Users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda_Tres_Monosabios.Clientes.resources
+C:\Users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda_Tres_Monosabios.CrearCliente.resources
+C:\Users\mafer\onedrive\documentos\visual studio 2012\Projects\Tienda Tres Monosabios\Tienda Tres Monosabios\obj\Debug\Tienda_Tres_Monosabios.EditarCliente.resources
